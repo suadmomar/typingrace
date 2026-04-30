@@ -7,7 +7,7 @@
  * It is not optional. Good luck.
  *
  * @author SUAD OMAR
- * @version V1 01.04.2026
+ * @version V3 30.04.2026
  */
 public class Typist
 {
@@ -17,8 +17,6 @@ public class Typist
     // Another tracks whether the typist is currently burnt out.
     // A third tracks HOW MANY turns of burnout remain (not just whether they are burnt out).
     // The remaining three should be fairly obvious.
-
-
 
 
     // Constructor of class Typist
@@ -224,8 +222,8 @@ public class Typist
     {
         typistSymbol = newSymbol;
     }
-
     public static void main(String[] args) {
+
     }
 
 }
